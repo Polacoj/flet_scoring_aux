@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Lanzador del Sistema de Scoring — Oficiales (Flet 1.0).
+# Lanzador del Sistema de Scoring — Operadores (Flet 1.0).
 set -euo pipefail
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
