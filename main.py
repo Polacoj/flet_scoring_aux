@@ -20,11 +20,11 @@ from __future__ import annotations
 
 import flet as ft
 
+#from ui.vista_formulas import VistaFormulas
+from ui.vista_colaboradores import VistaColaboradores
 from ui.vista_diccionario import VistaDiccionario
 from ui.vista_general import VistaGeneral
 from ui.vista_imputados import VistaImputados
-#from ui.vista_formulas import VistaFormulas
-from ui.vista_colaboradores import VistaColaboradores
 
 TITULO = "Sistema de Scoring — Auxiliares"
 
